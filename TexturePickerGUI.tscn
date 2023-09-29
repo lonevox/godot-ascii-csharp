@@ -1,0 +1,33 @@
+[gd_scene format=2]
+
+[node name="Control" type="Control"]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+offset_right = 40.0
+offset_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="Button" parent="HBoxContainer"]
+offset_right = 61.0
+offset_bottom = 40.0
+text = "[empty]"
+
+[node name="TextureRect" type="TextureRect" parent="HBoxContainer/Button"]
+offset_right = 40.0
+offset_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button2" type="Button" parent="HBoxContainer"]
+offset_left = 65.0
+offset_right = 77.0
+offset_bottom = 40.0
+
+[node name="PopupMenu" type="PopupMenu" parent="."]
+offset_right = 20.0
+offset_bottom = 20.0

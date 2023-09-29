@@ -1,0 +1,10 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://dakjtluhr3xdh"]
+
+[ext_resource type="Shader" path="res://addons/ASCIITileMap/ascii_tilemap_two_color_shader_material.gdshader" id="1_e2shq"]
+
+[resource]
+shader = ExtResource("1_e2shq")
+shader_parameter/glyph_size = null
+shader_parameter/tile_ids = null
+shader_parameter/fg_color = null
+shader_parameter/bg_color = null

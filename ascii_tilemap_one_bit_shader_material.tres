@@ -1,0 +1,6 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://c8gy2fjm8k67v"]
+
+[ext_resource type="Shader" path="res://addons/ASCIITileMap/ascii_tilemap_one_bit_shader_material.gdshader" id="1_0elp5"]
+
+[resource]
+shader = ExtResource("1_0elp5")

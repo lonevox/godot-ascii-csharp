@@ -1,0 +1,6 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://ca4j24duyeo8a"]
+
+[ext_resource type="Shader" path="res://addons/ASCIITileMap/darker.gdshader" id="1_qmmag"]
+
+[resource]
+shader = ExtResource("1_qmmag")

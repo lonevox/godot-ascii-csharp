@@ -1,0 +1,6 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://bjj6a0k4ifbx6"]
+
+[ext_resource type="Shader" path="res://addons/ASCIITileMap/ascii_tilemap_uber_shader_material.gdshader" id="1_k6ckv"]
+
+[resource]
+shader = ExtResource("1_k6ckv")
