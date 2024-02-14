@@ -1,6 +1,10 @@
-# godot-ascii
+# godot-ascii-csharp
 
-godot-ascii is an ASCII renderer backed by a Godot Tilemap node. Each glyph can have full-color foreground and background colors.
+> [!WARNING]
+>
+> godot-ascii-csharp has been archived in favor of [godot-ascii](https://github.com/lonevox/godot-ascii), a GDExtension port of this addon.
+
+godot-ascii-csharp is an ASCII renderer backed by a Godot Tilemap node. Each glyph can have full-color foreground and background colors.
 
 ![image](https://github.com/lonevox/godot-ascii/assets/38600896/bec0d76b-5f4d-4661-bb7a-c83ca1a9c64f)
 
